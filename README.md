@@ -10,3 +10,8 @@ A more general version of the project, based on CIF files, is currently under de
 
 For further information or usage instructions, please contact:  
 kristalvarelamuzzati@gmail.com
+
+For more details about the method, please refer to the Supplementary Material of the following article.  
+If you use this code in your research, please cite:
+
+K. N. Varela, G. I. Pagola, A. M. Lund, M. B. Ferraro, A. M. Orendt, and J. C. Facelli, “An open science grid implementation of the steady state genetic algorithm for crystal structure prediction,” J. Comput. Sci., vol. 82, p. 102415, 2024, doi: 10.1016/j.jocs.2024.102415.
